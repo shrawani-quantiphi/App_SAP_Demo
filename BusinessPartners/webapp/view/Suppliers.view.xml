@@ -12,9 +12,6 @@
 					    <List noDataText="Drop list items " id="list0">
 					    </List>
 					</content>
-				<headerContent>
-				    <sap.ushell.ui.footerbar:AddBookmarkButton text="Click Here" icon="sap-icon://add-favorite" xmlns:sap.ushell.ui.footerbar="sap.ushell.ui.footerbar" id="button0"/>
-				</headerContent>
 				</Page>
 			</pages>
 		</App>
