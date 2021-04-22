@@ -13,7 +13,7 @@
 					    </List>
 					</content>
 				<headerContent>
-				    <sap.ushell.ui.footerbar:AddBookmarkButton text="Bookmark added!" icon="sap-icon://add-favorite" xmlns:sap.ushell.ui.footerbar="sap.ushell.ui.footerbar" id="button0"/>
+				    <sap.ushell.ui.footerbar:AddBookmarkButton text="Bookmark added!" icon="sap-icon://add-favorite" xmlns:sap.ushell.ui.footerbar="sap.ushell.ui.footerbar" id="button1"/>
 				</headerContent>
 				</Page>
 			</pages>
